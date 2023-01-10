@@ -3,6 +3,7 @@ assimp (5.1.6~ds0-1) unstable; urgency=medium
   * New upstream version 5.1.6~ds0
   * Fix compilation with system-provided minizip
   * Drop obsolete (and unused) patch
+  
 
  -- IOhannes m zmölnig (Debian/GNU) <umlaeute@debian.org>  Wed, 19 Jan 2022 10:28:36 +0100
 
